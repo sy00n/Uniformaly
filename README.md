@@ -1,6 +1,6 @@
 # UniFormaly: Towards Task-Agnostic Unified Anomaly Detection
 
-This repository contains the official PyTorch implementation of _UniFormaly_: Towards Task-Agnostic Unified Anomaly Detection.   
+This repository contains the official PyTorch implementation of [_UniFormaly_: Towards Task-Agnostic Unified Anomaly Detection.](https://arxiv.org/abs/2307.12540)
 
    
 ![overview_readme](assets/overview_readme.png)
